@@ -20,8 +20,11 @@ public class Libro {
     /**
      * Método constuctor para inicializar los atributos de la clase
      * @param Titulo es el titulo del Libro
+     * Se almacena el titulo del libro luego del ingreso por consola.
      * @param Autor es el autor del Libro
+     * Se almacena el autor del libro luego de el ingreso por consola.
      * @param NumeroPaginas es el numero de paginas del Libro
+     * S e almacena el número de paginas del libro luego del ingreso por consola.
      *
      * Complejidad temporal: O(1) Tiempo constante
      */
